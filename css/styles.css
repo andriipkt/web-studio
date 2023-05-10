@@ -427,6 +427,9 @@ button {
   transition: fill var(--transition);
 }
 
+.no-scroll {
+  overflow: hidden;
+}
 /* ============ /Modal Window =========== */
 
 /*==================== ADAPTIVE ===========================*/
